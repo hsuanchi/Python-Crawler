@@ -7,7 +7,7 @@ import time
 from bs4 import BeautifulSoup
 
 # 匯入資料
-item = pd.read_csv('/Users/max/Desktop/Project_商品庫存/萬代商品庫存.csv')
+item = pd.read_csv('/Users/max/Desktop/Project_商品庫存/商品庫存.csv')
 pList = []
 
 
